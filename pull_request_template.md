@@ -1,8 +1,8 @@
-#Resumen del cambio:
+##Resumen del cambio:
 -Motivo:
 -Alcance:
 
-#Checklist
+##Checklist
 -[] Titulo claro
 -[] Descripción útil (qué y por qué)
 -[] Cambio mínimo (un tema)
