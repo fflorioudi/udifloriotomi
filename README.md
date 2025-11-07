@@ -1,10 +1,8 @@
 # udifloriotomi
-
-@ Ejercicio Pull Request y Merge
-@ Descripcion breve
-(Pendiente de mejorar)
-
-@Reglas del equipo
-.
-.
-.
+# Ejercicio: Pull Request y Merge
+## Descripción breve
+(pendiente de mejorar)
+## Reglas del equipo
+-
+-
+-
